@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/coba', function(){
-    return "Hello Selasa!";
+    return "Hello Rabu Kobu!";
 });
